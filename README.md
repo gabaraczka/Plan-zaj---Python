@@ -1,10 +1,11 @@
 # Plan-zaj---Python
 
-**Ten skrypt umożliwia przetwarzanie harmonogramu zajęć z pliku Excel i generowanie pliku .ics kompatybilnego z kalendarzami Google i Apple.
-**
+**Ten skrypt umożliwia przetwarzanie harmonogramu zajęć z pliku Excel i generowanie pliku .ics kompatybilnego z kalendarzami Google i Apple.** 
+
 Wymaganie zainstalowania biblioteki:
-**pandas
-ics**
+  **pandas**
+  
+  **ics**
 
 Skopiuj kod
 pip install pandas ics
