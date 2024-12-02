@@ -1,4 +1,4 @@
-# Plan-zaj---Python
+# Plan-zajęć-Python
 
 **Ten skrypt umożliwia przetwarzanie harmonogramu zajęć z pliku Excel i generowanie pliku .ics kompatybilnego z kalendarzami Google i Apple.** 
 
